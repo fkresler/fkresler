@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**fkresler/fkresler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You spotted my personal Github profile. I am primarily a frontend developer from Germany (regional wise from Franconia) although I often try different things to get a feeling for various technologies and some may involve usage of a backend as well 🤓
 
-Here are some ideas to get you started:
+🍻 What have I been up to?
+I have recently mostly been working with Typescript, React and Node for my daily work as well as for a project in my prviate time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What am I working on?
+I want to learn more about different approaches to the Javascript ecosystem and try them in various minor projects like
+- Gatsby
+- Svelte
+- Vue
+
+📧 How can you reach me?
+
+- https://www.xing.com/profile/Fabian_Kresler
